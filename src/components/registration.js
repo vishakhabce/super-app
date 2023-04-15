@@ -6,7 +6,7 @@ function Registration() {
   return (
     <>
       <div className="Registration">
-      <LeftContainer/>
+      <LeftContainer/> 
         <div className="rightContainer">
           <div className="upperContainer">Super app</div>
           <p className="createAccount">Create your new account</p>
