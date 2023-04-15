@@ -1,8 +1,10 @@
 import './App.css';
+import React from 'react';
+import Registration from './components/registration';
 
 function App() {
   return (
-   <div></div>
+    <Registration/>
   );
 }
 

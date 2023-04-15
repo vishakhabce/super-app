@@ -1,0 +1,39 @@
+* {
+    margin: 0px;
+    padding: 0px;
+  }
+.image-container {
+    position: absolute;
+    height: 100vh;
+    width: 50vw;
+  }
+  .LoginAccount { 
+      position: absolute;
+      display: flex;
+      text-align: center;
+      width: 50vw;
+      height: 10vh;
+      top: 10vh;
+      left: 8vw;
+      font-family: "Roboto";
+      font-style: normal;
+      font-weight: 900;
+      font-size: 15px;
+      letter-spacing: 0.02em;
+      color: white; 
+  }
+  .leftBottomContainer {
+    position: absolute;
+    display: flex;
+    text-align: center;
+    width: 50vw;
+    height: 10vh;
+    top: 60vh;
+    font-family: "Roboto";
+    font-style: normal;
+    font-weight: 900;
+    font-size: 55px;
+    line-height: 141.69%;
+    letter-spacing: 0.02em;
+    color: white;
+  }
